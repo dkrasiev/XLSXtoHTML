@@ -1,0 +1,13 @@
+﻿<Window x:Class="XLSXtoHTML.ResultWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XLSXtoHTML"
+        mc:Ignorable="d"
+        Title="Result" Height="450" Width="800">
+    <Grid>
+        <TextBlock Name="resultBox" HorizontalAlignment="Left" Margin="50,50,50,50" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top" Height="311" Width="668"/>
+
+    </Grid>
+</Window>
